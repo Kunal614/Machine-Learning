@@ -1,4 +1,4 @@
-# One Hiddwn Neural Network
+# One Hidden Neural Network
 
 ![Neural Network](https://github.com/Kunal614/Machine-Learning/blob/master/neural_network/classification_kiank.png)
 
